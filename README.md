@@ -1,2 +1,6 @@
 # hello-world
-Hello World
+
+
+Hello there,
+
+My first time commiting anything on gitHub. 
